@@ -1,0 +1,1 @@
+https://www.obitko.com/tutorials/genetic-algorithms/encoding.php#:~:text=Binary%20encoding%20is%20the%20most,of%20bits%2C%200%20or%201.&text=On%20the%20other%20hand%2C%20this,after%20crossover%20and%2For%20mutation.
